@@ -32,3 +32,6 @@ Edit Profil
 3. Melihat Riwayat kelas yang diikuti (status selesai / mendatang) [Read]
 4. Melihat jadwal kelas yang tersedia [Read]
 5. Upload soal [Create & Khusus (Upload dokumen soal)]
+
+Note: 
+Aplikasi dibuat didalam satu laptop sehingga untuk repository GitHub ini terdiri dari 3 contributor namun yang commit hanya satu akun.
